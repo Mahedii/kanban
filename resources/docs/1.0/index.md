@@ -1,0 +1,2 @@
+- ## Get Started
+    - [Installation](/{{route}}/{{version}}/overview)
